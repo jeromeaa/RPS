@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rock
+  - paper
+  - scissor
+  - random
+  - erock
+  - epaper
+  - escissors
+  - prock
+  - ppaper
+  - pscissors
+  - invisible
+  - DashSensor
+  - box
+  - MainPlayer
+  - shield
+  - sp_random
+  - health
+  - power_charge
+  - phys_shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - sensor
+  - Obstacle
+  - Box
+  - Rock
+  - Paper
+  - Scissors
+  - rockp
+  - paperp
+  - scissorsp
+  - Shockwave
+  - Invisible
+  - Power
+  - MainPlayer
+  - Shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Smoke
+    uniqueID: 2807409767
+    locked: 0
